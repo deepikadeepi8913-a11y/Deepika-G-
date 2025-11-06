@@ -85,7 +85,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hi! I’m <b>Anandhan GK</b>, a passionate Civil Engineering student from Government College of Engineering, Salem. I’m interested in Structural Design, Surveying, and Construction Management. My goal is to become a professional Structural Engineer.</p>
+    <p>Hi! I’m <b>Deepika G</b>, a passionate Civil Engineering student from Government College of Engineering, Salem. I’m interested in Structural Design, Surveying, and Construction Management. My goal is to become a professional Structural Engineer.</p>
   </section>
 
   <section id="projects">
